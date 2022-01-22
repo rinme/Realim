@@ -1,4 +1,4 @@
-# Fabric Example Mod
+# It's actually mod
 
 ## Setup
 
